@@ -1,5 +1,3 @@
-# lab1_spring
-
 ЛР1
 - Перша частина - цей репозиторій
 - [Друга частина](https://github.com/Fastroof/lab1_spring-web) 
